@@ -1,0 +1,5 @@
+classes = 3
+train = cfg/train.txt
+valid = cfg/valid.txt
+names = cfg/obj.names
+backup = cfg/weights
